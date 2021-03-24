@@ -5,5 +5,4 @@ Collection of gui inspect tool for Windows.
 * SPYXX.EXE
 * swapy-ob-0.4.3.exe
 * UISpy.exe
-* ViewWizard.exe
 * WSEdit.EXE
